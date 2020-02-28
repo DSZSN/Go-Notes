@@ -15,6 +15,7 @@ Go源码剖析具体实现给予Go1.11、Go1.12、Go1.13、Go1.14版本。
 	- [x] [make和new](sourceCodeAnalysis/builtin-type/make_new.md)
 	- [ ] [interface](sourceCodeAnalysis/builtin-type/interface.md)
 - [x] 运行时
+	- [x] [程序引导及初始化](sourceCodeAnalysis/runtime/init_1.14.md)
 	- [x] [defer](sourceCodeAnalysis/runtime/defer.md)
         - [x] [go1.13 defer](sourceCodeAnalysis/runtime/defer_1.13.md)
         - [x] [go1.14 defer](sourceCodeAnalysis/runtime/defer_1.14.md)
